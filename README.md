@@ -4,3 +4,5 @@ Testin 2026 aastal
 
 arvutis
 
+neljas rida lisatud kohalkus masinas
+
